@@ -122,8 +122,4 @@ double interest = balance * INTEREST_RATE;
 - Use `camelCase` for local variables (`average` instead of `Average`).
 - Catch specific exceptions (e.g. `FormatException`) when you want more helpful messages.
 
-## Requirements
 
-- Visual Studio
-- .NET Windows Forms App
-- Language: C#
