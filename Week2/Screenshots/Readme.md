@@ -106,20 +106,5 @@ double interest = balance * INTEREST_RATE;
 
 ---
 
-## Suggested improvements
-
-- Use `double.TryParse` instead of `double.Parse` to validate input without exceptions:
-  ```csharp
-  if (double.TryParse(gallonsTextBox.Text, out double gallons) && gallons > 0)
-  {
-      mpgLabel.Text = (miles / gallons).ToString("n1");
-  }
-  else
-  {
-      MessageBox.Show("Please enter a valid number of gallons greater than 0.");
-  }
-  ```
-- Use `camelCase` for local variables (`average` instead of `Average`).
-- Catch specific exceptions (e.g. `FormatException`) when you want more helpful messages.
 
 

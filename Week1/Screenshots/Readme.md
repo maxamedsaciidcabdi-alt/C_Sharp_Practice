@@ -126,15 +126,6 @@ Stage 3: lbloutput.Text = Fulldate   →  shown on screen
    (reset inputs)   (this.Close())
 ```
 
-## Possible improvements
 
-- Use **string interpolation** for cleaner code:
-  ```csharp
-  Fulldate = $"{day_of_the_week}, {Name_of_the_month} {NumericDay}, {Year}";
-  // Monday, September 28, 2026
-  ```
-- Validate that fields are not empty and that the day/year are numeric before concatenating (e.g. `int.TryParse`).
-- Follow C# naming conventions: use `PascalCase` for controls/properties and `camelCase` for local variables (e.g. `fullDate`, `dayOfTheWeek`).
-- Use `DateTime` (e.g. `DateTime.Now.ToString("dddd, MMMM d, yyyy")`) if the date does not need to be typed manually.
 
 
