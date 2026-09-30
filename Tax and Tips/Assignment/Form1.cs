@@ -22,21 +22,23 @@ namespace Assignment
             try
             {
 
-                
+                // creating variables
                 String food1 = txtfood1.Text;
                 int food1price = int.Parse(txtfood1price.Text);
                 String food2 = txtfood2.Text;
                 int food2price = int.Parse(txtfood2price.Text);
 
-                
+                // calculating tax by multiplying 0.07
                 double tax = (food1price + food2price) * 0.07;
+                // calculating final total
                 double total = food1price + food2price + tax;
-
+                // output
                 lbloutput.Text ="Total is: " + (total.ToString()) + " Tax is: " + (tax.ToString());
             }
 
             catch 
             {
+                // Error telling message
                 MessageBox.Show("Pease enter valid info.");
             }
         }
