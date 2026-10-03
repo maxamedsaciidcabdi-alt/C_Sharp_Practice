@@ -27,12 +27,12 @@ namespace Payroll_With_Overtime
 
             try
             {
-                // Convert the values entered in the TextBoxes to numbers
-                hoursWorked = Convert.ToDouble(hoursWorkedTextBox.Text);
-                hourlyPayRate = Convert.ToDouble(hourlyPayRateTextBox.Text);
+                // converting hours into double
+                if (double.TryParse(hoursWorkedTextBox.Text, out hoursWorked))
+                if (double.TryParse(hourlyPayRateTextBox.Text, out hourlyPayRate))
 
-                // Check if hours worked is valid
-                if (hoursWorked >= 0)
+                        // Check if hours worked is valid
+                        if (hoursWorked >= 0)
                 {
                     // Nested if: check if hourly pay rate is valid
                     if (hourlyPayRate >= 0)
