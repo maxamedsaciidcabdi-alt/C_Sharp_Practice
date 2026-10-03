@@ -24,14 +24,13 @@ namespace Test_Score_Average
 
             try
             {
-                // Convert the text entered in the TextBoxes
-                // into double numbers.
-                score1 = Convert.ToDouble(txtScore1.Text);
-                score2 = Convert.ToDouble(txtScore2.Text);
-                score3 = Convert.ToDouble(txtScore3.Text);
+                // Convert the text entered in the TextBoxes into double numbers.
+                 if (double.TryParse(txtScore1.Text, out score1))
+                 if (double.TryParse(txtScore2.Text, out score2))
+                 if (double.TryParse(txtScore3.Text, out score3))
 
                // Check if Score #1 is between 0 and 100.
-            if (score1 < 0 || score1 > 100)
+                 if (score1 < 0 || score1 > 100)
                 {
                     MessageBox.Show("Score #1 must be between 0 and 100.");
                 }
