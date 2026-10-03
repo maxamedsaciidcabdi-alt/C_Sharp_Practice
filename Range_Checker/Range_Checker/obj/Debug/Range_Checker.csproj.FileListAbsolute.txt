@@ -1,0 +1,10 @@
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\bin\Debug\Range_Checker.exe.config
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\bin\Debug\Range_Checker.exe
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\bin\Debug\Range_Checker.pdb
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.AssemblyReference.cache
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.Form1.resources
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.Properties.Resources.resources
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.GenerateResource.cache
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.CoreCompileInputs.cache
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.exe
+C:\Users\us\Desktop\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.pdb
