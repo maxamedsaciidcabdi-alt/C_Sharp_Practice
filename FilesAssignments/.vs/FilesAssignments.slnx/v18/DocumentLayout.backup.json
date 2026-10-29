@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\us\\Desktop\\C#\\FilesAssignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA82C005-85C3-435F-8FDA-085E19A887EC}|FilesAssignments\\FilesAssignments.csproj|c:\\users\\us\\desktop\\c#\\filesassignments\\filesassignments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA82C005-85C3-435F-8FDA-085E19A887EC}|FilesAssignments\\FilesAssignments.csproj|solutionrelative:filesassignments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA82C005-85C3-435F-8FDA-085E19A887EC}|FilesAssignments\\FilesAssignments.csproj|C:\\Users\\us\\Desktop\\C#\\FilesAssignments\\filesassignments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA82C005-85C3-435F-8FDA-085E19A887EC}|FilesAssignments\\FilesAssignments.csproj|solutionrelative:filesassignments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\us\\Desktop\\C#\\FilesAssignments\\FilesAssignments\\Form1.cs",
+              "RelativeDocumentMoniker": "FilesAssignments\\Form1.cs",
+              "ToolTip": "C:\\Users\\us\\Desktop\\C#\\FilesAssignments\\FilesAssignments\\Form1.cs*",
+              "RelativeToolTip": "FilesAssignments\\Form1.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:48:47.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\us\\Desktop\\C#\\FilesAssignments\\FilesAssignments\\Form1.cs",
+              "RelativeDocumentMoniker": "FilesAssignments\\Form1.cs",
+              "ToolTip": "C:\\Users\\us\\Desktop\\C#\\FilesAssignments\\FilesAssignments\\Form1.cs [Design]*",
+              "RelativeToolTip": "FilesAssignments\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:36:29.752Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

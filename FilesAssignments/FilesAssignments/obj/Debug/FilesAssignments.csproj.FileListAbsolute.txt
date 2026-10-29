@@ -1,0 +1,10 @@
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\bin\Debug\FilesAssignments.exe.config
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\bin\Debug\FilesAssignments.exe
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\bin\Debug\FilesAssignments.pdb
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\obj\Debug\FilesAssignments.csproj.AssemblyReference.cache
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\obj\Debug\FilesAssignments.Form1.resources
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\obj\Debug\FilesAssignments.Properties.Resources.resources
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\obj\Debug\FilesAssignments.csproj.GenerateResource.cache
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\obj\Debug\FilesAssignments.csproj.CoreCompileInputs.cache
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\obj\Debug\FilesAssignments.exe
+C:\Users\us\Desktop\C#\FilesAssignments\FilesAssignments\obj\Debug\FilesAssignments.pdb
