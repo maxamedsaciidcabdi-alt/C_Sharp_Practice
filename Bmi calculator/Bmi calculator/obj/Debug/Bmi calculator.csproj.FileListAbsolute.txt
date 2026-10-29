@@ -1,0 +1,10 @@
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\bin\Debug\Bmi calculator.exe.config
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\bin\Debug\Bmi calculator.exe
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\bin\Debug\Bmi calculator.pdb
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\obj\Debug\Bmi calculator.csproj.AssemblyReference.cache
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\obj\Debug\Bmi_calculator.Form1.resources
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\obj\Debug\Bmi_calculator.Properties.Resources.resources
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\obj\Debug\Bmi calculator.csproj.GenerateResource.cache
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\obj\Debug\Bmi calculator.csproj.CoreCompileInputs.cache
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\obj\Debug\Bmi calculator.exe
+C:\Users\us\Desktop\C#\Bmi calculator\Bmi calculator\obj\Debug\Bmi calculator.pdb
