@@ -1,0 +1,11 @@
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\bin\Debug\Asigment_Open_Save.exe.config
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\bin\Debug\Asigment_Open_Save.exe
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\bin\Debug\Asigment_Open_Save.pdb
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\obj\Debug\Asigment_Open_Save.csproj.AssemblyReference.cache
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\obj\Debug\Asigment_Open_Save.Form1.resources
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\obj\Debug\Asigment_Open_Save.Properties.Resources.resources
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\obj\Debug\Asigment_Open_Save.csproj.GenerateResource.cache
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\obj\Debug\Asigment_Open_Save.csproj.CoreCompileInputs.cache
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\obj\Debug\Asigment_Open_Save.exe
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\obj\Debug\Asigment_Open_Save.pdb
+D:\Semester5\C#programming\Asigment_Open_Save\Asigment_Open_Save\obj\Debug\Asigment_Open_Save.exe.config
